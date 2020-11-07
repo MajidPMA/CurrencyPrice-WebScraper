@@ -3,7 +3,7 @@
 ### Get Data From https://www.tgju.org/ ###
 ### Gold, USD, EUR Price ###
 
-Get Data From Web Showing in GUI 
+Get Data From Web, Showing in Persian GUI 
 
 Python 3.8 
 
@@ -16,4 +16,4 @@ Py Library Used :
                   time
                   sys
 
-__Author = Majid9372
+__Author__ = Majid9372
