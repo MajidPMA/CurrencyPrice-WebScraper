@@ -1,8 +1,8 @@
 # CurrencyPrice-WebScraper
 
 ### Get Data From https://www.tgju.org/ ###
-### Gold, USD, EUR Price ###
-### دریافت قیمت ارز و طلا و سکه###
+## Gold, USD, EUR Price ##
+# دریافت قیمت ارز و طلا و سکه #
 
 Get Data From Web, Showing in Persian GUI 
 
