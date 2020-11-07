@@ -4,7 +4,6 @@
 import requests as req
 from bs4 import BeautifulSoup as bs
 import sys
-import time
 from PyQt5 import QtWidgets, uic
 import json
 import _thread
